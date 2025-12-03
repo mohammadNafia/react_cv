@@ -203,7 +203,7 @@ function Projects() {
               )}
               <div className="p-6">
                 <h3 className="text-2xl font-semibold text-white mb-3">{project.title}</h3>
-                <p className="text-accent text-sm mb-4 font-medium">{project.tech}</p>
+                <p className="text-secondary text-sm mb-4 font-medium">{project.tech}</p>
                 <p className="text-white/80 leading-relaxed mb-6 text-sm">
                   {project.description}
                 </p>

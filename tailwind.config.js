@@ -4,8 +4,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        accent: '#3B82F6',
-        dark: '#0D0D0D'
+        accent: '#ffa69e', // Powder Blush
+        dark: '#5e6472', // Blue Slate
+        secondary: '#aed9e0', // Light Blue
+        light: '#faf3dd', // Vanilla Cream
+        icyAqua: '#b8f2e6' // Icy Aqua
       }
     }
   },
