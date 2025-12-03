@@ -36,12 +36,13 @@ function Hero() {
           >
             LinkedIn
           </a>
-          <button
-            type="button"
-            className="px-8 py-3 bg-transparent border-2 border-white/30 text-white rounded-lg font-medium hover:border-white/50 transition-all duration-200 w-full sm:w-auto hover:scale-110 hover:bg-white/10"
+          <a
+            href="/Mohammed_Nafia_CV.docx"
+            download="Mohammed_Nafia_CV.docx"
+            className="px-8 py-3 bg-transparent border-2 border-white/30 text-white rounded-lg font-medium hover:border-white/50 transition-all duration-200 w-full sm:w-auto text-center hover:scale-110 hover:bg-white/10"
           >
             Download CV
-          </button>
+          </a>
         </div>
       </div>
     </section>
